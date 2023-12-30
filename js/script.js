@@ -57,7 +57,7 @@ async function displayPopularShows() {
     const div = document.createElement('div');
     div.classList.add('card');
     div.innerHTML = `
-          <a href="tv-details.html?id=${show.id}">
+          <a href="shows.html?id=${show.id}">
             ${
               show.poster_path
                 ? `<img
