@@ -490,8 +490,6 @@ function init() {
     case '/index.html':
       displaySlider();
       displayPopularMovies();
-      break;
-    case '/shows.html':
       displayPopularShows();
       break;
     case '/movie-details.html':
