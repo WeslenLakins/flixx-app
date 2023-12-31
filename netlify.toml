@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://resilient-gumption-a80b58.netlify.app/shows"
+to = "https://resilient-gumption-a80b58.netlify.app/shows.html"
+status = 200
+force = true
